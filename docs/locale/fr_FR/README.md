@@ -16,6 +16,7 @@ La documentation en français est en cours de traduction...
 
 - Oumar FALL - oumarfall@hotmail.fr
 - Gilles GRAVIER - gilles@gravier.org
+- Serigne Asse Gueye - serigneasse.gueye@gmail.com
 - vous??
 
 # Envie de participer?
